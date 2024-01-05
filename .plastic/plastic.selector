@@ -1,0 +1,4 @@
+repository "2D-Platformer@NeedJob_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
